@@ -10,6 +10,8 @@ namespace GitHub_Try
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello world");
         }
+
     }
 }
